@@ -1,0 +1,9 @@
+# Environments
+.env
+
+#cache
+.cache
+__pycache__/
+
+#google cloud
+gcloud/
